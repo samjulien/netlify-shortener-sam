@@ -1,0 +1,24 @@
+{
+  "name": "netlify-shortener-sam",
+  "version": "1.0.0",
+  "baseUrl": "http://samj.im",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samjulien/netlify-shortener-sam.git"
+  },
+  "keywords": [],
+  "author": "Sam Julien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samjulien/netlify-shortener-sam/issues"
+  },
+  "homepage": "https://github.com/samjulien/netlify-shortener-sam#readme",
+  "dependencies": {
+    "netlify-shortener": "^1.0.3"
+  }
+}
